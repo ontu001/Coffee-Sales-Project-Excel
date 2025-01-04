@@ -45,3 +45,6 @@ Contributions to enhance the dashboard are welcome! Please submit a pull request
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 For any questions or feedback, please contact me via GitHub.
+
+Citations:
+[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/47992244/9513e87b-51c1-4442-80a8-a82ae45c2cc9/Coffee-Sales-Dashboard.xlsx
